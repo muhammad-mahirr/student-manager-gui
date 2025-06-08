@@ -111,4 +111,20 @@ A message will confirm if the deletion was successful.
 
   If you’ve made changes, the app will ask if you want to save before quitting.
 
+## ⚠ NOTE: 📄 Student Details File Format
+
+The studentDetails.txt file should follow this exact format for each student, with each detail on a separate line and a blank line separating different students:
+```
+Student Name: Shinchan Nohara
+Student ID: 162
+CGPA: 3.94
+
+Student Name: Kazama Toru
+Student ID: 163
+CGPA: 3.92
+
+```
+...and so on.
+Make sure to keep the labels exactly as shown (Student Name: , Student ID: , CGPA: ), with a colon and a space before the actual value and blank line and one blank line after each student's information to separate records properly.
+
    
