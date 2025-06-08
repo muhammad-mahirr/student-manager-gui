@@ -1,0 +1,40 @@
+Student Name: Shinchan Nohara
+Student ID: 162
+CGPA: 3.94
+
+Student Name: Kazama Toru
+Student ID: 163
+CGPA: 3.92
+
+Student Name: Nene Sakurada
+Student ID: 164
+CGPA: 3.75
+
+Student Name: Masao Sato
+Student ID: 165
+CGPA: 3.48
+
+Student Name: Bo-chan
+Student ID: 166
+CGPA: 3.89
+
+Student Name: Himawari Nohara
+Student ID: 167
+CGPA: 3.2
+
+Student Name: Misae Nohara
+Student ID: 168
+CGPA: 3.6
+
+Student Name: Hiroshi Nohara
+Student ID: 169
+CGPA: 3.78
+
+Student Name: Ai-chan
+Student ID: 170
+CGPA: 4.0
+
+Student Name: Action Kamen
+Student ID: 171
+CGPA: 3.95
+
