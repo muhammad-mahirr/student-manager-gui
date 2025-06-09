@@ -14,6 +14,30 @@ You can add, search, update, delete, and view student information. It also shows
 - 💾 Save and load student data from a text file  
 - 🎨 Switch between light and dark themes
 
+## 🌟 Highlights
+
+- 🎨 **Dynamic Theme Switching:** Toggle between modern dark and light themes instantly.
+- 📊 **Live Statistics Panel:** See total students, average CGPA, and top performer at a glance.
+- 💾 **File-Based:** Save/load records with `Save`, `Save As`, `Open`, and `New`.
+- 🧠 **Smart Update/Search:** Auto-fill fields based on Student ID for editing or deleting.
+- 🚫 **Input Validation:** Prevents invalid data with helpful GUI popups.
+- 🖥️ **Desktop-like UX:** Clean menus, exit confirmation, and file handling like a real app.
+
+## 📸 Screenshots
+
+### 🌓 Dark & Light Theme Preview
+
+<p align="center">
+  <img src="assets/2gui.png" width="45%" alt="Dark Theme"/>
+  &nbsp;
+  <img src="assets/3gui.png" width="45%" alt="Light Theme"/>
+</p>
+
+### ⚠️ Input Validation Example
+
+<p align="center">
+  <img src="assets/4gui.png" width="60%" alt="Error Popup Example"/>
+</p>
 
 ## 🚀 How to Run
 
